@@ -4,9 +4,12 @@ module.exports = {
   theme: {
     screens: {
       'sm': '480px',
-      'md': '768px',
-      'lg': '1080px',
+      'md': '760px',
+      'lg': '968px',
       'xl': '1440px',
+    },
+    fontFamily: {
+      'sans': ['Kumbh Sans', 'sans-serif'],
     },
     extend: {
       colors: {
